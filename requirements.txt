@@ -1,0 +1,7 @@
+unidic-lite
+cutlet
+beautifulsoup4
+selenium
+requests
+flask
+flask-restful
